@@ -1,0 +1,13 @@
+{
+    "name": "vivianmartinez/woocommerce_list_product_variations",
+    "description": "List all product variations using WooCommerce REST API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vivian Martinez"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.1"
+    }
+}
